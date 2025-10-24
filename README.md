@@ -7,7 +7,7 @@ Users, Education, Institute, Branch, Company, Cab, and Works. It stores user pro
 ###  Project Overview:
 This project simulates a relational database for managing employee profiles, education history, company branches, job roles, and transportation logistics. It demonstrates your ability to design normalized schemas, implement foreign key relationships, and perform complex SQL queries for business insights.
 
----
+
 
 ###  Database Schema Design
 
@@ -40,7 +40,7 @@ Stores cab service details:
 Tracks employment history:
 - Fields: `Work_Id`, `Tittle`, `Salary`, `Start_Date`, `End_Date`, `UserId`, `CompanyId`, `CabId`
 
----
+
 
 ###  SQL Query Highlights
 
@@ -90,7 +90,7 @@ FROM Education
 WHERE Passedout_Year < (SELECT MAX(Passedout_Year) FROM Education);
 ```
 
----
+
 
 ###  Skills Demonstrated
 - Relational schema design with foreign key constraints  
