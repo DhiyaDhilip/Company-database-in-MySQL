@@ -2,14 +2,14 @@
 Users, Education, Institute, Branch, Company, Cab, and Works. It stores user profiles, educational backgrounds, company details, and work records. Various JOIN and subquery operations retrieve linked information like user jobs, institutes, and top passed-out years for analysis.
 
 
-## 🏢 MySQL Project: Company Database Management System
+##  MySQL Project: Company Database Management System
 
 ###  Project Overview:
 This project simulates a relational database for managing employee profiles, education history, company branches, job roles, and transportation logistics. It demonstrates your ability to design normalized schemas, implement foreign key relationships, and perform complex SQL queries for business insights.
 
 ---
 
-### 🧱 Database Schema Design
+###  Database Schema Design
 
 #### Users Table
 Stores personal details of employees:
